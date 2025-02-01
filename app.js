@@ -28,12 +28,12 @@ const songs = [
     },
     {
         id:"5",
-        songName: `Ertugrul Gazi <br><div class="subtitle">Ertugrul</div>`,
+        songName: `Cheap Thrills <br><div class="subtitle">Sia</div>`,
         poster: "img/5.jpg",
     },
     {
         id:"6",
-        songName: `Electronic Music <br><div class="subtitle">Electro</div>`,
+        songName: `Moonlight <br><div class="subtitle">Kali Uchis</div>`,
         poster: "img/6.jpg",
     },
     {
